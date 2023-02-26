@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class alanHesap {
     public static void main(String[] args) {
-        // Değişkenler oluşturma
+        // Değişkenler belirleme
         double a, b, c, alan, u;
 
         // Kullanıcıdan veri alma
